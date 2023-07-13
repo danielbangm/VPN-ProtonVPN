@@ -63,4 +63,6 @@ Now that I am connected through protonVPN, I will go back into my browser and fi
 
 <h2>Conclusion</h2>
 
-Since my IPv4 address is different in each scenario I can conclude that
+Since my IPv4 address is different in each scenario I can conclude that VPN helps me appears on the internet with a different location and can help me protect my identity. This is a really cool lab that shows me how you can hide your address when browsing the internet. For example you can have access to some netflix content only reserved to Japan just by using a VPN. I tried to go to netflix.com from my Virtual Machine VM1 and here is the output:
+![image](https://github.com/danielbangm/VPN-ProtonVPN/assets/22795502/519fd9be-04d9-4cdb-a150-99fdc6d83f64)
+
