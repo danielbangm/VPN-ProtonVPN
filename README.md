@@ -45,3 +45,22 @@ Since I am on a windows machine I will use Remote Desktop Connection to connect 
 
 To get VM1's IP address I open a brwoser engine and go to www.whatismyipaddress.com and note that somewhere because I will compare different scenario in this lab to outline the benefit or importance of using a VPN. IPv4 = 20.77.71.83 and the region is UK-London
 ![image](https://github.com/danielbangm/VPN-ProtonVPN/assets/22795502/50b6912e-ca4e-4dd8-a297-e22cef0ed3c8)
+
+-  Step 5: Sign up for ProtonVPN and find my VM1 IP address again
+
+I search for protonVPN and create a free account just for the sake of this lab. I prefer signing up for ProtonVPN from my personal computer, then getting the credetials before going to the Virtual Machine and connect to protonVPN as and end user with the same credential just to avoid messing up my location. I was able to create a free account and install it in my VM1
+![image](https://github.com/danielbangm/VPN-ProtonVPN/assets/22795502/57160359-218d-472a-b0fc-fe7667cff459)
+
+-  Step 6:  Connect the Virtual Machine VM1 to protonVPN and choose Japan as the Country
+
+I do a quick connect inside protonVPN and chose Japan as the country and now I am protected on the internet and my traffic is from Japan
+![image](https://github.com/danielbangm/VPN-ProtonVPN/assets/22795502/27940183-c2f3-4777-b163-59a4af703c96)
+
+-  Step 7: Find the IP address of Virtual Machine VM1
+
+Now that I am connected through protonVPN, I will go back into my browser and find my IP address at www.whatismyipaddress.com. Now my IP address is IPv4 = 37.19.205.154 and my location is Tokyo-Japan
+![image](https://github.com/danielbangm/VPN-ProtonVPN/assets/22795502/17381a60-4cb0-4bbb-87b0-96e1c458578b)
+
+<h2>Conclusion</h2>
+
+Since my IPv4 address is different in each scenario I can conclude that
