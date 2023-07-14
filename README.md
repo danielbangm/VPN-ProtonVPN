@@ -1,6 +1,6 @@
 ![image](https://github.com/danielbangm/VPN-ProtonVPN/assets/22795502/5243893a-3691-4117-a385-a23f9910fce3)
 
-<h2>VPN - Prerequisites and Installation</h2>
+<h1>VPN - Prerequisites and Installation</h1>
 
 In this lab I will outline how VPN can securely link two computers(or networks) together across an insecure network such as the internet, allowing them to send encapsulated and encrypted data to each other.
 
