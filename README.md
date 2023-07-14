@@ -1,4 +1,6 @@
-![image](https://github.com/danielbangm/VPN-ProtonVPN/assets/22795502/5243893a-3691-4117-a385-a23f9910fce3)
+<p align="center">
+<img src="https://rb.gy/uhnqh" />
+</p>
 
 <h1>VPN - Prerequisites and Installation</h1>
 
